@@ -40,6 +40,14 @@ footer {
   text-align: center;
   height: 4em;
 }
+
 footer p a {
   color: white;
+}
+
+h1 {
+  font-size: 6vh;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  text-decoration: underline;
 }
